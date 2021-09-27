@@ -12,7 +12,7 @@ Mine any alt/lite with me on your pc/Android
 
 # Doge Mining on Android
 * Download latest my pre-compiled `arm/arm64-xmrig-with-config-file` [xmrig-android](https://github.com/fahad15090/xmrig-coin-mining/releases/tag/v6.15.1)
-* Default 8 core/threads or configured in `config.json` file you can change `rx/0 = [0, 1, 2, 3, 4, 5, 6, 7]` according to your needs
+* Default 8 core/threads is configured in `config.json` file you can change `rx/0 = [0, 1, 2, 3, 4, 5, 6, 7]` according to your needs
 * More info for configure  [Unmineable.com](https://unmineable.com/?ref=zwbn-swbe)
 
 # Prerequisites
