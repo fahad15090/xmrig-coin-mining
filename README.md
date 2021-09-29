@@ -19,6 +19,7 @@ Mine any alt/lite with me on your pc/Android
 * Termux app on android
 * `apt-get update`
 * `apt-get install wget`
+* `apt-get install cmake`
 * Quard core+  arm cpu
 
 
