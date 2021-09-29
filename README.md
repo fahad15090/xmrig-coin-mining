@@ -33,4 +33,5 @@ Mine any alt/lite with me on your pc/Android
 * Type command+Address of your HFS server on Android terminal `wget http://192.168.x.x/file`
 * Extract that file `unzip xmrig.zip`
 * `cd xmrig`
+* `chmod +x xmrig`
 * `./xmrig`
